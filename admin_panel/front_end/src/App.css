@@ -1,0 +1,172 @@
+
+    .footer{
+      position:absolute;
+      bottom: 0;
+      width: 100%;
+      height: 60px;
+      text-align: center;
+      background-color: aquamarine;
+      position: fixed;
+    }
+    .navBar{
+      
+      background-color: aquamarine;
+      width: 97%;
+      position:static;
+
+    }
+    .navBar ul{
+      padding: 5px;
+      background-color: red;
+    }
+
+    .navBar>li{
+      
+      display:  inline-block;
+      
+      padding: 10px;
+    color: rgb(0, 0, 0);
+    
+    }
+    .navBar li a{
+      text-decoration: none;
+    }
+    .main-frame{
+      height: 430px;
+      padding: 10px;
+      background-color: yellow;
+      top: 50px;
+      
+    
+    }
+    .main-frame>h1{
+      position: relative;
+      left: 43%;
+      color: rgb(0, 61, 42);
+    }
+
+    .form{
+      width: 300px;
+      position:relative;
+      background-color: aquamarine;
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      left: 38%;
+    }
+
+    .form>label{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      padding: 5px;
+      color: rgb(169, 105, 21);
+
+    }
+    .form>button{
+      padding: 5px;
+      position: relative;
+      top:10px;
+      border-radius: 5px;
+      background-color: bisque;
+    }
+      
+    .main-page{
+      /* background-color: red; */
+      height: 80vh;
+      top: 2px;
+    }
+
+    .main-page>h1{
+      position: relative;
+      left: 43%;
+    }
+    
+  .add-item-form{
+    /* background-color: aqua; */
+    height: 20vh;
+    width: 500px;
+    position: relative;
+    left:25%;
+    text-align: center;
+  }
+
+  .add-item-form>label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+    font-style: italic;
+    display: flex;
+    position: relative;
+    left: 150px;
+  }
+  .add-item-form>input{
+    position: relative;
+    display: flex;
+    padding: 5px;
+    left: 150px;
+  }
+.add-item-form>button{
+  background-color: red;
+  border-radius: 5px;
+  position: relative;
+  top: 35px;
+  right:30px;
+  
+}
+.main-outline{
+  text-align: center;
+}
+
+.main-outline h1{
+  color:blueviolet;
+}
+
+
+
+.tabel{
+  /* background-color: black; */
+  text-align: center;
+  margin-top: 50px;
+}
+.tabel ul li{
+display: inline-block;
+padding: 5px;
+width: 150px;
+border: 1px solid black;
+}
+
+.tabel ul{
+  margin: 0px;
+
+}
+.tabel button{
+  background-color: rgb(81, 176, 249);
+  border: 2px solid black;
+  border-radius: 3px;
+  margin: 1px;
+  position: relative;
+  width: auto;
+  height: auto;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
