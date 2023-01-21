@@ -18,14 +18,14 @@ This web application have various functionality.
 #### Get all items
 
 ```http
-  GET /localhost:3000/list
+ GET /localhost:3000/list
 ```
 
 
 #### Add item
 
 ```http
-  POST /localhost:3000/add
+ POST /localhost:3000/add
 ```
 
 
@@ -34,13 +34,13 @@ This web application have various functionality.
 #### Update item
 
 ```http
-  POST /localhost:3000/Update/:id
+POST /localhost:3000/Update/:id
 ```
 
 #### login
 
 ```http
-  POST /localhost:3000/login
+POST /localhost:3000/login
 ```
 
 #### Sign 
