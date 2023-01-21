@@ -46,7 +46,7 @@ This web application have various functionality.
 #### Sign 
 
 ```http
-  POST /localhost:3000/Sign
+POST /localhost:3000/Sign
 ```
 
 #### Delete
